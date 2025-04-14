@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Name=Capybara Coin 
+Comment=Capybara Coin P2P Cryptocurrency
+Comment[fr]=Capybara Coin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Capybara Coin, eşten eşe kriptografik sanal para birimi
+Exec=cap-qt %u
+Terminal=false
+Type=Application
+Icon=ddr128
+MimeType=x-scheme-handler/cap;
+Categories=Office;Finance;
+StartupWMClass=cap-qt
