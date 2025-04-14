@@ -1,6 +1,6 @@
 # Capybara Coin Blockchain Specification
 
-The Capy Experience: Where Chill Meets Speed! 🦫🏎"
+The Capy Experience: Where Chill Meets Speed! 🦫🏎
 
 We’re a community of capybara lovers and car enthusiasts, driven by a passion for smooth rides—on the road and in crypto.  Built by a crypto-savvy car enthusiast, Like capybaras, CapyCos is steady and rewarding, and like cars, it’s built for performance. 
 Stake, earn, and enjoy the ride!
