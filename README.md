@@ -15,10 +15,6 @@ Stake, earn, and enjoy the ride!
 - P2P Port: 54829
 - RPC Port: 54830
 
-# About Capybara Coin
-
-Cryptocurrency designed for a diverse range of applications.
-
 # Links
 
 - Website: https://capcoin.online
