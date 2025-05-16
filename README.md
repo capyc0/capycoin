@@ -20,4 +20,4 @@ Stake, earn, and enjoy the ride!
 - Website: https://capcoin.online
 - Explorer: https://explorer.capcoin.online
 - Discord: https://discord.gg/dF7E8RdugH
-- Twitter: https://x.com/CapybaraC73054
+- Twitter: https://x.com/CapcoCoin
